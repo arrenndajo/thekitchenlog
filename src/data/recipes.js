@@ -13,6 +13,7 @@ export const recipes = [
   { name: "Paneer Bhurji", date: "Jul 4, 2026", img: "/paneer_bhurji.jpg" },
   { name: "Peanut Butter Oats & Banana", date: "Feb 17, 2026", img: "/peanut_butter_oats_banana.jpg" },
   { name: "Poha", date: "Jun 13, 2026", img: "/poha.jpg" },
+  { name: "Rava Dosa", date: "Jul 9, 2026", img: "/rava_dosa.jpg" },  
   { name: "Salad", date: "Dec 30, 2025", img: "/salad.jpg" },
   { name: "Soyabean Sabzi & Thepla", date: "Feb 9, 2026", img: "/soyabean_sabzi_thepla.jpg" },
   { name: "Toast Sandwich", date: "Feb 1, 2026", img: "/toast_sandwich.jpg" },
